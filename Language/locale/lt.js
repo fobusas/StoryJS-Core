@@ -1,16 +1,16 @@
-/* English LANGUAGE 
+/* Lithuanian LANGUAGE 
 ================================================== */
 if(typeof VMM != 'undefined') {
 	VMM.Language = {
 		lang: "lt",
 		api: {
-			wikipedia: "en"
+			wikipedia: "lt"
 		},
 		date: {
 			month: ["Sausio", "Vasario", "Kovo", "Balandžio", "Gegužės", "Birželio", "Liepos", "Rugpjūčio", "Rugsėjo", "Spalio", "Lapkričio", "Gruodžio"],
 			month_abbr: ["Saus.", "Vas.", "Kov.", "Bal.", "Geg.", "Birž.", "Liep.", "Rugpj.", "Rug.", "Spal.", "Lapkr.", "Gruod."],
 			day: ["Sekmadienis", "Pirmadienis", "Antradienis", "Trečiadienis", "Ketvirtadienis", "Penktadienis", "Šeštadienis"],
-			day_abbr: ["Sun.","Mon.", "Tues.", "Wed.", "Thurs.", "Fri.", "Sat."]
+			day_abbr: ["Sek.","Pirm.", "Antr.", "Treč.", "Ketv.", "Penkt.", "Šešt."]
 		}, 
 		dateformats: {
 			year: "yyyy",
